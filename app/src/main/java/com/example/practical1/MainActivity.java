@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         //newly added
     }
+
+    public void test(){}
 }
